@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Terry Wang.
-- 👀 I’m interested in biomedical informatics, computer science,... etc.
+- 👀 I’m interested in biomedical informatics, computer science, building biomedical computing pipelines with shell scripts.
 - 🌱 I’m currently learning djiango Python web framework.
 - 📫 Email: t36641@gmail.com.
 
