@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Terry Wang.
-- 👀 I’m interested in biomedical informatics, computer science, and building biomedical computing pipelines with shell scripts.
-- 🌱 I’m currently learning the Django Python web framework.
-- 📫 Email: t36641@gmail.com.
+- 👀 I’m proficient in biomedical informatics, machine learning, and data science.
+- 🌱 I’m interested in Shell, R, and Python, and integrating clinical and genetic data to develop genetic risk prediction models and computational platforms.
+- 📫 Email: wangterry88@gmail.com.
 
 <!---
 wangterry88/wangterry88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
